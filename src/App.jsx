@@ -3,7 +3,7 @@ import Header from './Header';
 import ToDoList from './ToDoList';
 import './App.css';
 
-// Motivational quotes for sidebar
+// Motivational quotes for sidebar FOR MOTIVATIONNNNSSS
 const quotes = [
   'Success is the sum of small efforts, repeated day in and day out.',
   'The secret of getting ahead is getting started.',
